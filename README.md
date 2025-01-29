@@ -25,4 +25,17 @@ This project explores the implementation of Generative Adversarial Networks (GAN
   Integration of transposed convolutions, conditional embeddings, and binary cross-entropy loss for high-quality outputs.  
 
 - **Customizable**:  
-  Hyperparameters and architectural settings optimized for diverse data complexities.  
+  Hyperparameters and architectural settings optimized for diverse data complexities.
+
+## Results
+ - **GANs using MNIST Dataset**
+   <img width="1092" alt="Figure 2025-01-09 172012 (79)" src="https://github.com/user-attachments/assets/3c220073-14d3-4e32-971e-00fb6a4adae2" />
+
+- **GANs using CelebA Dataset**
+  ![gans-2](https://github.com/user-attachments/assets/8bb3403e-ddf7-41d2-ab93-cdb49839b909)
+
+- **CGANs using MNIST Dataset**
+  ![gans-2](https://github.com/user-attachments/assets/ca15014d-1258-4df2-8939-42b1b0a23214)
+
+- **CGANs using CelebA Dataset**
+  ![cgan-3](https://github.com/user-attachments/assets/981ecdb6-39d4-449c-b12a-cc2485528b96)
